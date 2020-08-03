@@ -4,3 +4,4 @@ whats rubbish is this
 change in master branch for learning conflict
 change in newbranch to create conflict 
 >>>
+change in master branch
